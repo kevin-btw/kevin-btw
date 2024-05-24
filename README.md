@@ -1,5 +1,3 @@
-
-
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Kevin (Sozosha)!</h2>
 
 - 💞️ I’m an avid learner and I've keen interest in Android Development and Cloud Computing.
