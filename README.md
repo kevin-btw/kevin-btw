@@ -20,7 +20,3 @@
 </p>
 <br>
 
-<br>
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=sarthakroy2002&style=flat-square"/>
-</p>
